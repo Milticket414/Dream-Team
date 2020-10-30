@@ -44,7 +44,7 @@ Building portfolios is difficult and time consuming. The amount of grunt work ne
 
 ## Rough Sketch
 
-![test image](../../in_class/dashboard_rough_draft.png)
+![test image](extra_stuff/dashboard_rough_draft.png)
 
 ## Breakdown of Tasks
 
