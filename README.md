@@ -49,6 +49,9 @@ Building portfolios is difficult and time consuming. The amount of grunt work ne
 ## Breakdown of Tasks
 
 1. Start pulling and cleaning data:
+    
+    *pull for 10 years*
+    
     Katie: Vanguard ETF
 
     Jorge: FANG data
