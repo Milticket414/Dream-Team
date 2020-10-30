@@ -42,6 +42,11 @@ Building portfolios is difficult and time consuming. The amount of grunt work ne
 
 *-Gold ETF*
 
+## Rough Sketch
+
+![test image](../../in_class/dashboard_rough_draft.png)
+
+## Breakdown of Tasks
 
 
 
