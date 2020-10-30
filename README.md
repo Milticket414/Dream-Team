@@ -44,11 +44,34 @@ Building portfolios is difficult and time consuming. The amount of grunt work ne
 
 ## Rough Sketch
 
-![test image](../../in_class/dashboard_rough_draft.png)
+![test image](extra_stuff/dashboard_rough_draft.png)
 
 ## Breakdown of Tasks
 
+1. Start pulling and cleaning data:
+    
+    *pull for 10 years*
+    
+    Katie: Vanguard ETF
 
+    Jorge: FANG data
+
+    Mark: Gold
+
+    Chinedozi: Cryptos (start with Bitcoin)
+    
+    Ryan: S&P 500 data
+
+
+2. Organize data into the same format
+
+datetime_index, "Ticker" (with price underneath), daily_returns
+
+3. Projections
+
+4. Build Graphs as hvplots
+
+5. Start messing with dashboards
 
 
 
