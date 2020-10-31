@@ -73,6 +73,9 @@ datetime_index, "Ticker" (with price underneath), daily_returns
 
 5. Start messing with dashboards
 
+Finished Product Must Incorporate: 
+- two datasets, cleaned and formatted 
+
 
 
 ```
