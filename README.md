@@ -67,14 +67,25 @@ Building portfolios is difficult and time consuming. The amount of grunt work ne
 
 datetime_index, "Ticker" (with price underneath), daily_returns
 
+created the universal dataframe
+
+2b. How to format universal dataframe into good data for projections/graphs
+
 3. Projections
 
 4. Build Graphs as hvplots
 
 5. Start messing with dashboards
 
-Finished Product Must Incorporate: 
-- two datasets, cleaned and formatted 
+Finished Product Must Have: 
+
+- two datasets, cleaned and formatted
+- exploration + cleanup process
+- create a jupyter notebook and format
+- aggregate visuals with final analysis
+- optional API
+- us one new Python Library
+- 10 new library
 
 
 
