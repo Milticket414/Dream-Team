@@ -83,8 +83,8 @@ Finished Product Must Have:
 - exploration + cleanup process
 - create a jupyter notebook and format
 - aggregate visuals with final analysis
-- optional API
-- us one new Python Library
+- optional API (bring in up to date FANG stock prices)
+- us one new Python Library (PyPortfolioOpt)
 - 10 new library
 
 
