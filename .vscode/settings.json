@@ -1,8 +1,4 @@
 {
-<<<<<<< HEAD
     "python.pythonPath": "/Users/markmurdock/anaconda3/bin/python",
     "python.dataScience.jupyterServerURI": "local"
-=======
-    "python.pythonPath": "C:\\Users\\jorge\\anaconda3\\envs\\pyvizenv\\python.exe"
->>>>>>> 101e74b10a388d4d68065a65b605fb1ae4e71900
 }
