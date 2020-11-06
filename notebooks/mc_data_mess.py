@@ -6,7 +6,7 @@ import alpaca_trade_api as tradeapi
 import datetime as dt
 import pytz
 
-class MCSimulation:
+class MC_Df_Simulation:
     """
     A Python class for runnning Monte Carlo simulation on portfolio price data. 
     
